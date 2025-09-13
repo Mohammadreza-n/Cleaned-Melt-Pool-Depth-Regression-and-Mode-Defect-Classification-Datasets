@@ -2,4 +2,4 @@ This repository contains extensively cleaned data related to melt pool depth and
 
 
 
-[8] Akbari P, Ogoke F, Kao N-Y, Meidani K, Yeh C-Y, Lee W, et al. MeltpoolNet: Melt pool characteristic prediction in Metal Additive Manufacturing using machine learning. Additive Manufacturing. 2022;55:102817. 
+8. 	Akbari P, Ogoke F, Kao NY, et al (2022) MeltpoolNet: Melt pool characteristic prediction in Metal Additive Manufacturing using machine learning. Addit Manuf 55:. https://doi.org/10.1016/j.addma.2022.102817 
