@@ -1,6 +1,6 @@
 This repository contains extensively cleaned experimental data related to melt pool depth regression and melt pool mode and defect classification, as used in our paper (currently under submission) titled “High-Level-Feature-Aware Machine Learning Approach Toward Data-Driven Prediction and Interpretation in Metal Additive Manufacturing.”
 
-The data cleaning procedure is described in the appendix A of the paper and will be made available upon publication. The raw data were collected from various sources in the literature and compiled by the study cited as Reference [8] in our article.
+The data cleaning procedure is described in the appendix A of the paper and will be made available upon publication. The raw data were collected from various sources in the literature and compiled by the study cited as the following reference  in our article:
 
 
 
