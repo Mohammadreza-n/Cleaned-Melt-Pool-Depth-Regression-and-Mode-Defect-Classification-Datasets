@@ -4,4 +4,4 @@ The data cleaning procedure is described in the Supplementary Information A of t
 
 
 
-Akbari, P., Ogoke, F., Kao, N. Y., Meidani, K., Yeh, C. Y., Lee, W., & Barati Farimani, A. (2022). MeltpoolNet: Melt pool characteristic prediction in Metal Additive Manufacturing using machine learning. Additive Manufacturing, 55. https://doi.org/10.1016/j.addma.2022.102817
+Akbari P, Ogoke F, Kao NY, et al (2022) MeltpoolNet: Melt pool characteristic prediction in Metal Additive Manufacturing using machine learning. Addit Manuf 55:. https://doi.org/10.1016/j.addma.2022.102817
